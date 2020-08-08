@@ -1,0 +1,59 @@
+2020-08-06 16:28:25.050  INFO 135012 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-06 16:28:25.054  INFO 135012 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-08-06 16:28:25.085  INFO 135012 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2020-08-06 16:28:25.572  INFO 135012 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-08-06 16:28:25.583  INFO 135012 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-08-06 16:28:25.584  INFO 135012 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-06 16:28:25.745  INFO 135012 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-08-06 16:28:25.746  INFO 135012 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1510 ms
+2020-08-06 16:28:26.386  INFO 135012 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-06 16:28:26.661  INFO 135012 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-08-06 16:28:34.841  INFO 135012 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-06 16:28:34.842  INFO 135012 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-08-06 16:28:34.852  INFO 135012 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2020-08-06 16:30:34.449  INFO 142448 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-06 16:30:34.453  INFO 142448 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-08-06 16:30:34.485  INFO 142448 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2020-08-06 16:30:34.967  INFO 142448 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-08-06 16:30:34.976  INFO 142448 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-08-06 16:30:34.976  INFO 142448 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-06 16:30:35.132  INFO 142448 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-08-06 16:30:35.133  INFO 142448 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1495 ms
+2020-08-06 16:30:35.756  INFO 142448 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-06 16:30:36.037  INFO 142448 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-08-06 16:30:47.508  INFO 142448 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-06 16:30:47.510  INFO 142448 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-08-06 16:30:47.520  INFO 142448 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2020-08-06 16:31:32.088  INFO 148064 --- [main] com.jsu.it.ItApplication                 : Starting ItApplication on 张小龙 with PID 148064 (D:\springBoot学习\it\target\classes started by Administrator in D:\springBoot学习\it)
+2020-08-06 16:31:32.092  INFO 148064 --- [main] com.jsu.it.ItApplication                 : No active profile set, falling back to default profiles: default
+2020-08-06 16:31:33.181  INFO 148064 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-06 16:31:33.184  INFO 148064 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-08-06 16:31:33.214  INFO 148064 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2020-08-06 16:31:33.773  INFO 148064 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-08-06 16:31:33.783  INFO 148064 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-08-06 16:31:33.783  INFO 148064 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-06 16:31:33.938  INFO 148064 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-08-06 16:31:33.939  INFO 148064 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1723 ms
+2020-08-06 16:31:34.608  INFO 148064 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-06 16:31:34.920  INFO 148064 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-08-06 16:31:34.932  INFO 148064 --- [main] com.jsu.it.ItApplication                 : Started ItApplication in 3.407 seconds (JVM running for 4.798)
+2020-08-06 16:32:09.894  INFO 148064 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-06 16:32:09.895  INFO 148064 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-08-06 16:32:09.905  INFO 148064 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2020-08-06 16:32:46.896  INFO 141164 --- [main] com.jsu.it.ItApplication                 : Starting ItApplication on 张小龙 with PID 141164 (D:\springBoot学习\it\target\classes started by Administrator in D:\springBoot学习\it)
+2020-08-06 16:32:46.902  INFO 141164 --- [main] com.jsu.it.ItApplication                 : No active profile set, falling back to default profiles: default
+2020-08-06 16:32:47.883  INFO 141164 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-06 16:32:47.887  INFO 141164 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-08-06 16:32:47.920  INFO 141164 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20ms. Found 0 Redis repository interfaces.
+2020-08-06 16:32:48.606  INFO 141164 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-08-06 16:32:48.618  INFO 141164 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-08-06 16:32:48.619  INFO 141164 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-06 16:32:48.778  INFO 141164 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-08-06 16:32:48.778  INFO 141164 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1809 ms
+2020-08-06 16:32:49.672  INFO 141164 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-06 16:32:50.285  INFO 141164 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-08-06 16:32:50.296  INFO 141164 --- [main] com.jsu.it.ItApplication                 : Started ItApplication in 3.927 seconds (JVM running for 5.27)
+2020-08-06 16:32:52.929  INFO 141164 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-06 16:32:52.930  INFO 141164 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-08-06 16:32:52.945  INFO 141164 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms
+2020-08-06 16:32:53.009  INFO 141164 --- [http-nio-8081-exec-1] com.jsu.it.logger.LogAspect              : 请求返回值 : {code=7248}
